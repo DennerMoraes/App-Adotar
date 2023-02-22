@@ -1,0 +1,9 @@
+[
+{"id":1,"especie":"Cachorro","name":"Pumpkin","age":3,"email":"gody0@sourceforge.net", "image": "DOG1","texto":"O Pumpkin gosta de brincar e é uma das criaturas mais adoráveis e divertidas que se pode ter como companheiro.", "telefone":4899999999},
+
+{"id":2,"especie":"Gato","name":"Frumpkin","age":11,"email":"gody0@sourceforge.net", "image": "DOG2","texto":"A personalidade seria geralmente é acompanhada de uma grande inteligência e astúcia. Eles são capazes de aprender rapidamente novas brincadeiras e truques,", "telefone":4899999999},
+
+{"id":3,"especie":"Coelho","name":"Floquinho","age":7,"email":"gody0@sourceforge.net", "image": "DOG3","texto":"Com uma energia incansável e um espírito aventureiro, esse tipo de coelho é sempre animado e pronto para qualquer desafio.", "telefone":4899999999},
+
+{"id":4,"especie":"Pato","name":"Patolino","age":3,"email":"gody0@sourceforge.net", "image": "DOG4","texto":"Ter um Pato assim é uma experiência incrível e divertida, mas também exige uma dose extra de atenção e cuidado para garantir que eles se mantenham seguros", "telefone":4899999999}
+]
